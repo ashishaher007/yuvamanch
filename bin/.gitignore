@@ -1,0 +1,85 @@
+# Java files
+*.class
+*.jar
+*.war
+*.ear
+ 
+# Build directories
+/target/
+/build/
+ 
+# Maven files
+*.log
+*.mvn
+**/maven-*/  # Maven temporary files
+ 
+# Gradle files
+.gradle/
+build/
+**/gradle-*/  # Gradle temporary files
+ 
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+out/
+*.ipr
+ 
+# Eclipse files
+.project
+.classpath
+.settings/
+bin/
+ 
+# NetBeans files
+nbproject/
+build/
+dist/
+ 
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+ 
+# Log files
+*.log
+ 
+# Application configuration files
+application.properties
+application.yml
+*.local
+ 
+# Dependency directories
+/lib/
+*.jar
+ 
+# Test output
+/test-output/
+ 
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.swp
+ 
+# Docker files (if applicable)
+Dockerfile
+docker-compose.yml
+ 
+# IDE-specific files
+*.user
+*.sublime-workspace
+*.sublime-project
+ 
+# Other
+*.tgz
+*.zip
+*.tar.gz
+*.tar
+*.gz
+ 
+# Ignore environment variable files
+.env
+.env.local
