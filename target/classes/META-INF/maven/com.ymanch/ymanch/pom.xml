@@ -12,8 +12,8 @@
 	<groupId>com.ymanch</groupId>
 	<artifactId>ymanch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>StreeSakti</name>
-	<description>Stree Sakti</description>
+	<name>YuvaManch</name>
+	<description>Yuva Manch</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
